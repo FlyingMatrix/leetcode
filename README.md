@@ -1,2 +1,2 @@
 # LeetCode
-Coding practice on LeetCode problems and solutions with Python
+LeetCode problem-solving with Python: solutions and practice exercises
